@@ -1,8 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/note-taking-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/note-taking-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/note-taking-website?style=social)
+ 
 
   <br />
 
@@ -51,6 +49,7 @@ Before you begin, ensure you have met the following requirements:
 * Published and draft notes list page
 * Profile and edit profile page
 * Use AOS animaion library
+
 
 
 
