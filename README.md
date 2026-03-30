@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 #### What you want to run this Project?
 
-* Node.js and npm (or yarn) installed on your machine
+* Node.js and npm (yarn) installed on your machine
 * A MongoDB database instance
 * VSCode editor or any code editor
 
