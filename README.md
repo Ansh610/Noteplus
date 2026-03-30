@@ -48,7 +48,7 @@ Before you begin, ensure you have met the following requirements:
 * Create,edit note page
 * Published and draft notes list page
 * Profile and edit profile page
-* Use AOS animaion library
+* Use AOS animation library for better view
 
 
 
