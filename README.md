@@ -6,7 +6,7 @@
 
   <h2 align="center">NotePlus: A MERN Stack Web App</h2>
 
- NotePlus is a web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) with Vite for frontend build tooling. It allows users to create, manage, and share notes.
+ NotePlus is a web application built with the use of MERN stack (MongoDB, Express.js, React.js, Node.js) with Vite for frontend build tooling. It allows users to create, manage, and share notes.
 
 </div>
 
